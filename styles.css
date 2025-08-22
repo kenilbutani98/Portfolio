@@ -672,6 +672,7 @@ nav {
     color: var(--primary-color);
     box-shadow: var(--box-shadow);
     transition: var(--transition);
+    text-decoration: none;
 }
 
 .social-links a:hover {
@@ -938,3 +939,4 @@ footer {
 
 
 }
+
