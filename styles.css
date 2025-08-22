@@ -326,7 +326,7 @@ nav {
 
 /* Skills Section */
 .skills {
-    background-image: url(images/background-about-section.png);
+    background-image: url(images/background-skills-section.png);
     background-size: cover;
 }
 
@@ -935,5 +935,6 @@ footer {
     .contact-from{
         display: none;
     }
+
 
 }
